@@ -1,15 +1,16 @@
 # HUANG_XINGJIAN_ESIGELECchamba_2
 1
-#####Nous avons fait un jeu de tir
+#####We made a shooting game
 
-Dans une scène de style dessin animé, nous pouvons contrôler le capteur à distance gauche pour contrôler la direction du tir. Cliquez sur le bouton à droite pour lancer la balle. Vitesse de lancement, contrôlée par la glissière au milieu, de 0 à 15.
-En fonction du nombre d'obstacles que la balle frappe, décidez du nombre de points que vous obtenez. Un obstacle ajoute 10 points.
+In a doomsday-style scene, we can control the left remote sensor to control the direction of the shooting. Click the button on the right to launch the ball. Launch speed, controlled by the slide in the middle, from 0-15.
 
-5 secondes après chaque tir, la balle se réinitialise automatiquement. En même temps, nous devons appuyer sur le bouton central de la souris ou sur le bouton dans le coin supérieur droit de l'écran pour réinitialiser l'obstacle.
-De plus, pour le terminal mobile, un bouton de sortie de jeu est réalisé dans le coin supérieur gauche.
+Depending on the number of obstacles the ball hits, the score is determined. Knocking down an obstacle adds 10 points.
 
-De plus, nous avons également fait une version AR. Lorsque nous numérisons une image d'un astronaute, une scène est générée sur l'image.
+5 seconds after each shot, the ball will automatically reset. At the same time, we need to press the middle mouse button, or the button in the upper right corner of the screen to reset the obstacle.
+In addition, for the mobile terminal, a game exit button is made in the upper left corner.
 
-Dans le fichier compressé, le nom est HUANG_XINGJIAN_ESIGELECchamba_2, qui est la version AR.
-HUANG_XINGJIAN_ESIGELECchamba_1 est la version de base (pour PC et Android).
-De plus, deux vidéos de démonstration sont jointes.
+In addition, we also made an AR version. scan astronaut pictures
+
+In the compressed file, XU_MINGJIE_ESIGELECchamba_1 is the basic version, including APK, PROJET, and video.
+
+In the compressed file, the name is XU_MINGJIE_ESIGELECchamba_2, which is the AR version, including APK, PROJET, and video.
